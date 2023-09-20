@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Change the background color of the game filter buttons when hovered over and clicked on.
+* [x] Change the background color of the game filter buttons when hovered over and clicked on.
 
 ## Video Walkthrough
 
